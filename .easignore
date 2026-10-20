@@ -1,0 +1,7 @@
+docs/
+submission/
+tests/
+*.md
+*.html
+*.svg
+expo_qr.png
